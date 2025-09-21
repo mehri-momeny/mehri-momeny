@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehri-momeny
 - 👀 I’m interested in working in the field of data science, artificial intelligence and creating predictive models in various fields
-- 🌱 I’m currently learning machine learning and deep learning
+- 🌱 I’m currently learning machine learning and deep learning specially LLMs and Agents AI
 - 💞️ I’m looking to collaborate on the data project
 - 📫 How to reach me Mehri.momeny@gmail.com
 
